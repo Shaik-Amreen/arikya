@@ -129,7 +129,7 @@ exports.createStudentdata = (verifyToken, async (req, res, next) => {
           your first priority .
           Hurry up ! don't wait .. time will never be perfect.
           <br/>
-          <span><strong>Registration Link : https://arikya.herokuapp.com/ </strong><span><br/>
+          <span><strong>Registration Link : <a href="https://arikya.herokuapp.com">ARIKYA</a> https://arikya.herokuapp.com/ </strong><span><br/>
           <span><strong>Passcode<strong> : ${c.code}</span>
           </span>
           <br/><br/>
@@ -268,7 +268,7 @@ exports.mailtoregisterstudents = (verifyToken, async (req, res, next) => {
      Did not register ARIKYA yet ! 
       Hurry up ! don't wait .. time will never be perfect.
       <br/>
-      <span><strong>Registration Link : https://arikya.herokuapp.com/ </strong><span>
+      <span><strong>Registration Link : <a href="https://arikya.herokuapp.com">ARIKYA</a> https://arikya.herokuapp.com/ </strong><span>
       </span>
       <br/><br/>
       Best Regards ,<br/>

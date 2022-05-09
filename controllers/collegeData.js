@@ -26,7 +26,7 @@ exports.postdata = (async (req, res, next) => {
           your first priority .
           Hurry up ! don't wait .. time will never be perfect.
           <br/>
-          <span><strong>Registration Link : https://arikya.herokuapp.com/ </strong><span><br/>
+          <span><strong>Registration Link : <a href="https://arikya.herokuapp.com">ARIKYA</a> https://arikya.herokuapp.com/ </strong><span><br/>
           <span><strong>Passcode<strong> ${sran} </span>
           </span>
           <br/><br/>
@@ -147,7 +147,7 @@ exports.updatedata = (verifyToken, async (req, res, next) => {
           your first priority .
           Hurry up ! don't wait .. time will never be perfect.
           <br/>
-          <span><strong>Registration Link : https://arikya.herokuapp.com/ </strong><span><br/>
+          <span><strong>Registration Link : <a href="https://arikya.herokuapp.com">ARIKYA</a> https://arikya.herokuapp.com/ </strong><span><br/>
           <span><strong>Passcode<strong> ${sran} </span>
           </span>
           <br/><br/>
